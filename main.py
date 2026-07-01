@@ -18,11 +18,11 @@ app = FastAPI()
 USER_EMAIL = "24f2002594@ds.study.iitm.ac.in"
 
 # Q1: Stats API
-Q1_ALLOWED_ORIGIN = "https://dash-9cvyc9.example.com"
+Q1_ALLOWED_ORIGIN = "https://dash-j0mhgy.example.com"
 
 # Q2: OAuth Verification
 Q2_ISSUER = "https://idp.exam.local"
-Q2_AUDIENCE = "tds-z286d0t7.apps.exam.local"
+Q2_AUDIENCE = "tds-2vtrx4i3.apps.exam.local"
 Q2_PUBLIC_KEY = """-----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2okOHspNjgA+2rTLbeuY
 cxiP/hG8C6Sb9iwg3yiLAA4HCnpITcbWCSelbvbYGuc3EbNy4xFyf5Cbj5DHJMID
@@ -34,7 +34,7 @@ dQIDAQAB
 -----END PUBLIC KEY-----"""
 
 # Q5: Analytics
-Q5_API_KEY = "ak_2z19by7354vzav13cnp6zrsx"
+Q5_API_KEY = "ak_1j7id896ue8c1mau93diwzu6"
 
 # Q9 & Q10: Orders & Middleware Stack
 TOTAL_ORDERS = 60
