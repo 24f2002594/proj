@@ -37,8 +37,8 @@ dQIDAQAB
 Q5_API_KEY = "ak_2z19by7354vzav13cnp6zrsx"
 
 # Q9 & Q10: Orders & Middleware Stack
-TOTAL_ORDERS = 41
-Q9_RATE_LIMIT_REQUESTS = 15
+TOTAL_ORDERS = 60
+Q9_RATE_LIMIT_REQUESTS = 18
 Q9_RATE_LIMIT_WINDOW = 10.0
 
 Q10_ALLOWED_ORIGIN = "https://app-jeoz98.example.com"
