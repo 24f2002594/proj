@@ -1,6 +1,9 @@
 fastapi
 uvicorn
 pydantic
-requests
-python-dateutil
+transformers
+torch
+accelerate
+sentencepiece
+
 
